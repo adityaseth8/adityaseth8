@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+### ⚡About Me
 * SWE @ Chevron
-* Prev. CS & Econ @ UC Davis
+* Prev CS & Econ @ UC Davis
 <!--
 **adityaseth8/adityaseth8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
